@@ -1,5 +1,7 @@
 <div align="center">
 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:F0F,100:0FF&fontColor=FFF&height=160&text=Nicholas%20Truter&fontSize=50&fontAlignY=40&desc=Software%20Engineer%20|%20Agile%20Web%20Developer&descAlignY=55&animation=fadeIn)
+
 <!-- ### Hello world 👋
 
 - 🔭 I’m currently working on ...
@@ -52,7 +54,7 @@
   <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> -->
 </div>
 
-### 🔥 My Stats 🔥
+### 🔥 My Statistics 🔥
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ntruter42&theme=buefy-dark&hide_border=true&border_radius=0&card_width=580&sideLabels=00FFFF&dates=404040&background=00000000&stroke=404040&fire=00FFFF)](https://git.io/streak-stats)
 <!-- [![ntruter42's GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ntruter42&count_private=true&theme=buefy&showicons=true)]()<br> -->
 <!-- [![ntruter42's Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ntruter42&langs_count=5&theme=buefy&layout=donut)]() -->
@@ -66,7 +68,23 @@
 
 <!-- <a style="text-align: center;" href="https://status.nmoo.dev/now-playing?open"><img align="center" src="https://status.nmoo.dev/now-playing" width="540" height="64"></a> -->
 
+### ✨ Character Traits ✨
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <b style="color:magenta">Dedicated - Colossians 3:23</b><br>
+  <sup>Whatever you do, work at it with all your heart, as working for the Lord, not for human masters.</sup><br>
+  <b>Collaborative - Matthew 18:20</b><br>
+  <sup>For where two or three gather in my name, there am I with them.</sup><br>
+  <b>Helpful - Proverbs 27:17</b><br>
+  <sup>As iron sharpens iron, so one person sharpens another.</sup><br>
+  <b>Action-oriented - James 1:22</b><br>
+  <sup>Do not merely listen to the word, and so deceive yourselves. Do what it says.</sup><br>
+  <b>Inspirational - Matthew 5:16</b><br>
+  <sup>In the same way, let your light shine before others, that they may see your good deeds and glorify your Father in heaven.</sup><br>
+  <b>Faithful - Proverbs 16:3</b><br>
+  <sup>Commit to the Lord whatever you do, and he will establish your plans.</sup><br>
+  <b>Virtuous - Galatians 5:22-23</b><br>
+  <sup>But the fruit of the Spirit is love, joy, peace, forbearance, kindness, goodness, faithfulness, gentleness and self-control. Against such things there is no law.</sup>
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:F0F,100:0FF&height=120)
 </div>
